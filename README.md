@@ -1,1 +1,1 @@
-![alt text](https://content.techgig.com/thumb/msid-74548080,width-860,resizemode-4/4-essential-skills-every-NET-developer-must-possess.jpg?67629)
+![alt text] (https://beeimg.com/images/a39773109922.png)
